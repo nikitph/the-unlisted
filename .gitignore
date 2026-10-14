@@ -1,0 +1,11 @@
+node_modules/
+.hyperframes/
+.thumbnails/
+.waveform-cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+renders/
+assets/din.ttf
